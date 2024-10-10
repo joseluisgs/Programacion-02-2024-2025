@@ -1,0 +1,9 @@
+*.pptx
+.DS_Store
+upload.sh
+Ejercicios/*.docx
+UD02.pdf
+Apuntes
+Soluciones/20*
+Ejemplos/20*
+
